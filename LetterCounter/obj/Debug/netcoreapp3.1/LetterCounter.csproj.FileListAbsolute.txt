@@ -10,6 +10,5 @@ C:\Users\bob\source\repos\LetterCounter\LetterCounter\obj\Debug\netcoreapp3.1\Le
 C:\Users\bob\source\repos\LetterCounter\LetterCounter\obj\Debug\netcoreapp3.1\LetterCounter.pdb
 C:\Users\bob\source\repos\LetterCounter\LetterCounter\obj\Debug\netcoreapp3.1\LetterCounter.genruntimeconfig.cache
 C:\Users\bob\source\repos\LetterCounter\LetterCounter\bin\Debug\netcoreapp3.1\ConsoleTables.dll
-C:\Users\bob\source\repos\LetterCounter\LetterCounter\obj\Debug\netcoreapp3.1\LetterCounter.csprojAssemblyReference.cache
 C:\Users\bob\source\repos\LetterCounter\LetterCounter\obj\Debug\netcoreapp3.1\LetterCounter.csproj.CoreCompileInputs.cache
 C:\Users\bob\source\repos\LetterCounter\LetterCounter\obj\Debug\netcoreapp3.1\LetterCounter.csproj.CopyComplete

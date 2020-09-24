@@ -204,7 +204,7 @@ namespace LetterCounter
         static void ExitMethod()
         {
             Console.WriteLine("Thank you for patroning and see you next time!");
-            Environment.Exit(0);
+            Console.ReadKey(true);
         }
     }
 }
