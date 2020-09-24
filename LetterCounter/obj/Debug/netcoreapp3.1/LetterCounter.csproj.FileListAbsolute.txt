@@ -1,0 +1,15 @@
+C:\Users\bob\source\repos\LetterCounter\LetterCounter\bin\Debug\netcoreapp3.1\LetterCounter.exe
+C:\Users\bob\source\repos\LetterCounter\LetterCounter\bin\Debug\netcoreapp3.1\LetterCounter.deps.json
+C:\Users\bob\source\repos\LetterCounter\LetterCounter\bin\Debug\netcoreapp3.1\LetterCounter.runtimeconfig.json
+C:\Users\bob\source\repos\LetterCounter\LetterCounter\bin\Debug\netcoreapp3.1\LetterCounter.runtimeconfig.dev.json
+C:\Users\bob\source\repos\LetterCounter\LetterCounter\bin\Debug\netcoreapp3.1\LetterCounter.dll
+C:\Users\bob\source\repos\LetterCounter\LetterCounter\bin\Debug\netcoreapp3.1\LetterCounter.pdb
+C:\Users\bob\source\repos\LetterCounter\LetterCounter\obj\Debug\netcoreapp3.1\LetterCounter.AssemblyInfoInputs.cache
+C:\Users\bob\source\repos\LetterCounter\LetterCounter\obj\Debug\netcoreapp3.1\LetterCounter.AssemblyInfo.cs
+C:\Users\bob\source\repos\LetterCounter\LetterCounter\obj\Debug\netcoreapp3.1\LetterCounter.dll
+C:\Users\bob\source\repos\LetterCounter\LetterCounter\obj\Debug\netcoreapp3.1\LetterCounter.pdb
+C:\Users\bob\source\repos\LetterCounter\LetterCounter\obj\Debug\netcoreapp3.1\LetterCounter.genruntimeconfig.cache
+C:\Users\bob\source\repos\LetterCounter\LetterCounter\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\bob\source\repos\LetterCounter\LetterCounter\obj\Debug\netcoreapp3.1\LetterCounter.csprojAssemblyReference.cache
+C:\Users\bob\source\repos\LetterCounter\LetterCounter\obj\Debug\netcoreapp3.1\LetterCounter.csproj.CoreCompileInputs.cache
+C:\Users\bob\source\repos\LetterCounter\LetterCounter\obj\Debug\netcoreapp3.1\LetterCounter.csproj.CopyComplete
