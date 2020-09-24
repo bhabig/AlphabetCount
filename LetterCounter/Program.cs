@@ -208,17 +208,3 @@ namespace LetterCounter
         }
     }
 }
-
-
-//// 4) format for table display
-////// a. collect each data row as a string
-//List<string> rows = new List<string>();
-//foreach (KeyValuePair<string, int> letterCount in letterCounts)
-//{
-//    rows.Add(
-//        String.Format("| {0} | {1} |", letterCount.Key, letterCount.Value)
-//    );
-//}
-////// b. find row with largest # chars so that row borders can be calcualted
-//var maxChars = rows.OrderByDescending(str => str.Length).ToList().First();
-//Console.WriteLine($"The text has been processed. Total unique letters counted: {letterCounts.Keys.Count}. Total letters in user's input: {letterCounts.Values.Sum()}");
