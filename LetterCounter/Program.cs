@@ -28,7 +28,7 @@ namespace LetterCounter
             if (lettersOnly.Count == 0)
             {
                 // retry the above flow if user wishes:
-                Console.WriteLine("There were no English Alphabet characters in the input. We only analyze letters in the English Alphabet. Press 'y' if you would like to provide new input, otherwise pressy any other key to exit the program.");
+                Console.WriteLine("There were no English Alphabet characters in the input. We only analyze letters in the English Alphabet. Press 'y' if you would like to provide new input, otherwise enter any other key to exit the program.");
                 string decision = Console.ReadLine();
 
                 // if user says yes, prompt again:
